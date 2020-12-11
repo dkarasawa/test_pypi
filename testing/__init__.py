@@ -1,0 +1,3 @@
+all = [ 
+    'hello.py'
+]
